@@ -1,1 +1,1 @@
-This is RegarD's first git project!
+This is Gunnamly's first git project!
